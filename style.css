@@ -1,9 +1,9 @@
-.main {
-    background-color: darkblue;
-}
-.sec_2 {
-    background-color: darkgreen;
-}
-.Paragraph_Lorem {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.box {
+    width: 150px;
+    height: 150px;
+
+    border: 5px solid #f44336;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: #ffeb3b;
 }
